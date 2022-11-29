@@ -1,0 +1,1 @@
+C:\Users\sa007\Desktop\emsdk\upstream\emscripten\em++.bat  -Wall -pedantic -Wextra -Wno-missing-braces -O3 -s USE_SDL=2 -std=c++1z @CMakeFiles\index.dir\objects1 -o index.js 
